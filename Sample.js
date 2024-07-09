@@ -1,5 +1,4 @@
 import React,{useState} from 'react'
-import { useNavigate } from 'react-router-dom'
 function Sample() {
     const[first,setFirst]=useState(0);
     const[second,setSecond]=useState(0);
